@@ -1,0 +1,7 @@
+/* 00_hello.css — toolchain: any modern browser (https://www.w3.org/Style/CSS/)
+ * One idea per file: the smallest meaningful stylesheet.
+ * Validate: https://jigsaw.w3.org/css-validator/ */
+.hello {
+  color: CanvasText;
+  font-family: system-ui, sans-serif;
+}
